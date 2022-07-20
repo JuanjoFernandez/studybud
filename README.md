@@ -1,0 +1,2 @@
+# studybud
+Django course project
